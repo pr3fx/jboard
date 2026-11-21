@@ -1,0 +1,6 @@
+[submodule "jboard_pcb/MX_V2"]
+	path = jboard_pcb/MX_V2
+	url = https://github.com/ai03-2725/MX_V2
+[submodule "jboard_pcb/random-keyboard-parts.pretty"]
+	path = jboard_pcb/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
